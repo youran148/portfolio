@@ -1,0 +1,121 @@
+
+
+---
+title: "Porfoliio"
+# If group comment the line below
+author: "Youran, 6654724940"
+# For a group uncomment the lines below
+# author:
+#    - Johan  Latulippe, 123456789
+#    - Given_name2 Family_name2 , 555555555
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    theme: cosmo
+---
+
+## Website Information
+
+**Live Website URL:** https://yourusername.github.io/repository-name
+**GitHub Repository URL:** https://github.com/yourusername/repository-name
+**Project Type:** [Individual Website ]
+
+
+---
+title: "Welcome to My Portfolio"
+---
+
+## Hello and Welcome!
+
+I'm Youran, and this is my portfolio. Here you'll find 
+projects showcasing my skills in:
+
+- Data cleaning and transformation
+- Statistical analysis
+- Data visualization with ggplot2
+- Professional reporting with R Markdown
+
+### Featured Projects
+
+Throughout this portfolio, you'll see analyses covering:
+
+- **Government Data Analysis:** Working with real-world public datasets
+- **Business Performance:** Analyzing operational data for insights
+- **Data Visualization:** Creating compelling charts and graphics
+
+### Navigate This Portfolio
+
+Use the menu above to:
+
+- Learn more [about me](about.html)
+- View my [projects](projects.html)
+
+---
+
+*This portfolio was built using R Markdown and is hosted on GitHub Pages.*
+
+
+---
+title: "About Me"
+---
+
+## Background
+
+I'm a forth-year student at VIU, developing skills 
+in data analysis, business intelligence, and statistical computing.
+
+## Skills & Tools
+
+**Analysis:**
+
+- R for data analysis
+- Data cleaning and transformation
+- Statistical analysis and interpretation
+
+**Visualization & Reporting:**
+
+- ggplot2 for professional visualizations
+- R Markdown for reproducible reports
+- Data storytelling for business audiences
+
+**Data Sources:**
+
+- CSV file processing
+- Government open data (via APIs)
+- Business performance datasets
+
+## Education
+
+**VIU** - international Program  
+*Expected Graduation: [2026 year]*
+
+Relevant Coursework:
+
+- Data Analysis for E-Management
+- Business Statistics
+- Information Systems
+
+## Contact
+
+Feel free to connect with me:
+
+- Email: [youranjiang@gmail.com](mailto:your.email@example.com)
+- GitHub: [youranjiang148](https://github.com/yourusername)
+
+---
+
+[← Back to Home](index.html)
+
+
+
+## Reflection
+
+Building and deploying this website was a valuable learning experience that strengthened both my technical and creative skills. Throughout the process, I became more confident in structuring content, organizing files, and understanding how each component contributes to a functional site. Writing and refining the pages helped me think more clearly about my goals, audience, and how to communicate information effectively.
+
+Deploying the site was especially rewarding because it transformed my work from something local and personal into something public and accessible. Troubleshooting issues—whether with formatting, links, or hosting—taught me patience and gave me a stronger sense of ownership over the final product. I also gained a better understanding of version control, publishing workflows, and the importance of testing before release.
+
+Overall, this project helped me grow as a learner and creator. It showed me that building a website isn’t just about technical steps; it’s also about expressing ideas, making decisions, and adapting when challenges appear. The final result reflects both effort and progress, and it motivates me to keep improving in future digital projects.
+
+## Website Overview
+
+My website contains a collection of curated pages that showcase my work, interests, and learning progress. It includes summaries, visuals, and structured sections that highlight key concepts, personal reflections, and analytical insights. The site is organized for clarity and easy navigation, presenting my projects in a clean, professional format suitable for both academic and personal use.
